@@ -11,3 +11,4 @@ Please, remember:
   - It does not interfere with the line card installation and later operations;
   - Fix the organizer after latching it on the line card tightly with cable ties using mounting holes on organizer brackets (we recommend Panduit PLT2I-C0 or similar).
 3. Patch cords must be attached to the organizer with Velcro ties up to 20 mm wide (we recommend Panduit Tak-Ty® Hook & Loop Cable Ties).
+4. We recommend using duplex 8-shaped (not uniboot) push-pull patchcords since in this case you can make a precabling and then use single fiber of a patchcord for WDM links.
